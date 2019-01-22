@@ -1,2 +1,1 @@
-# Epigraph
-Typology of Epigraphs in the Poetry of Russian Modernism
+[авторы]: (https://github.com/Kostoma/Epigraph/edit/master/README.md)
